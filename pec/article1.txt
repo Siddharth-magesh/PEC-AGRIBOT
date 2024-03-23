@@ -1,0 +1,7 @@
+Potato crop price has been decreased by 30 rupees,
+Tomato crop price has been increased by 20 rupees,
+The price of brinjal decreased by 25 rupees,
+The price for papaya increased by 15 rupees,
+radish price increased by 10 rupees,
+this is a test string,
+Price for cabbage decreased by 35 rupees.
